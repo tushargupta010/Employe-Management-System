@@ -1,0 +1,19 @@
+
+1> Create DataBase in MySQL
+
+2> Configure application.properties
+
+3> Create Employee Model and use JPA annotations
+
+4> Create Employee Repository Interface
+
+5> Create Exception Class
+
+6> Create Controller Class 
+
+
+
+Issue PORT
+1>CMD as run as administrator
+2>Enter netstat -a -o -n and hit enter.
+3>select the process id(not port) that your port running and type taskkill /F /PID <process_id_here>
